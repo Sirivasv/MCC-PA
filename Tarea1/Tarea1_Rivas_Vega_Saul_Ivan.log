@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.14)  15 AUG 2019 00:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.5)  5 SEP 2019 00:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Tarea1_Rivas_Vega_Saul_Ivan.tex
 (./Tarea1_Rivas_Vega_Saul_Ivan.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 8 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 10 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -377,11 +377,11 @@ Package babel Info: Making > an active character on input line 707.
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/share/texmf/tex/latex/babelbib/babelbib.sty
-Package: babelbib 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH)
+(/usr/share/texlive/texmf-dist/tex/latex/babelbib/babelbib.sty
+Package: babelbib 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH)
 
-(/usr/local/share/texmf/tex/latex/babelbib/spanish.bdf
-File: spanish.bdf 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH)
+(/usr/share/texlive/texmf-dist/tex/latex/babelbib/spanish.bdf
+File: spanish.bdf 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH)
 )
 \c@btxromaniannumeral=\count90
 )
@@ -537,18 +537,7 @@ Overfull \hbox (33.53854pt too wide) in paragraph at lines 138--147
 [6] [7]
 babelbib: Set language for keywords in the bibliography fixed to spanish
 (./Tarea1_Rivas_Vega_Saul_Ivan.bbl
-Underfull \hbox (badness 2961) in paragraph at lines 50--55
-[]\OT1/cmr/m/n/12 Leandro. (2018, No-viem-bre) An in-tro-duc-tion to
- []
-
-
-Underfull \hbox (badness 1527) in paragraph at lines 50--55
-\OT1/cmr/m/n/12 l^^S^^Pnea]. Dis-po-ni-ble en: $https : / / www . freecodecamp 
-. org / news /
- []
-
-
-Overfull \hbox (43.5011pt too wide) in paragraph at lines 50--55
+Overfull \hbox (43.5011pt too wide) in paragraph at lines 49--53
 \OT1/cmr/m/n/12 an-[]introduction-[]to-[]the-[]basic-[]principles-[]of-[]functi
 onal-[]programming-[]a2c2a15c84 /
  []
@@ -558,19 +547,19 @@ LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 ) ) 
 Here is how much of TeX's memory you used:
- 3095 strings out of 494820
- 41816 string characters out of 6177789
- 110829 words of memory out of 5000000
+ 3095 strings out of 494788
+ 41851 string characters out of 6177223
+ 110924 words of memory out of 5000000
  6384 multiletter control sequences out of 15000+600000
  9155 words of font info for 32 fonts, out of 8000000 for 9000
- 62 hyphenation exceptions out of 8191
+ 85 hyphenation exceptions out of 8191
  41i,11n,30p,742b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Tarea1_Rivas_Vega_Saul_Ivan.pdf (9 pages, 211789 bytes).
+Output written on Tarea1_Rivas_Vega_Saul_Ivan.pdf (9 pages, 211726 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream

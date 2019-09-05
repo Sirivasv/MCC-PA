@@ -22,15 +22,15 @@
 \BIBdecl
 
 \bibitem{joyanes_aguilar_fundamentos_2008}
-L.~Joyanes~Aguilar, L.~Rodríguez~Baena, y M.~Fernández~Azuela,
+L.~Joyanes~Aguilar, L.~Rodríguez~Baena, and M.~Fernández~Azuela,
   \emph{\BIBforeignlanguage{spanish}{Fundamentos de programación libro de
   problemas}}.\hskip 1em plus 0.5em minus 0.4em\relax {McGraw}-Hill, 2008,
   {OCLC}: 629802677.
 
 \bibitem{loyola_university}
 \BIBentryALTinterwordspacing
-R.~Toal. Programming paradigms. [En línea]. Disponible en:
-  \url{https://cs.lmu.edu/~ray/notes/paradigms/.} [Accedido: 14-8-2019].
+R.~Toal. Programming paradigms. [Accedido: 14-8-2019]. [Online]. Available:
+  \url{https://cs.lmu.edu/~ray/notes/paradigms/.}
 \BIBentrySTDinterwordspacing
 
 \bibitem{why_functional}
@@ -39,59 +39,55 @@ J.~Hughes, ``Why functional programming matters,'' \emph{The computer journal},
 
 \bibitem{hack_fp}
 \BIBentryALTinterwordspacing
-V.~Bera. (2015, Febrero) Functional programming - a new paradigm. [En línea].
-  Disponible en:
+V.~Bera. (2015, Febrero) Functional programming - a new paradigm. [Accedido:
+  14-8-2019]. [Online]. Available:
   \url{https://www.hackerearth.com/practice/notes/functional-programming-a-new-paradigm/.}
-  [Accedido: 14-8-2019].
 \BIBentrySTDinterwordspacing
 
 \bibitem{leandro_fp}
 \BIBentryALTinterwordspacing
 Leandro. (2018, Noviembre) An introduction to the basic principles of
-  functional programming. [En línea]. Disponible en:
+  functional programming. [Accedido: 14-8-2019]. [Online]. Available:
   \url{https://www.freecodecamp.org/news/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84/.}
-  [Accedido: 14-8-2019].
 \BIBentrySTDinterwordspacing
 
 \bibitem{quora_fp}
 \BIBentryALTinterwordspacing
 J.~Tov. (2018, Abril) What are some examples of functional programming
-  languages? [En línea]. Disponible en: \url{https://qr.ae/TWrAfS.} [Accedido:
-  14-8-2019].
+  languages? [Accedido: 14-8-2019]. [Online]. Available:
+  \url{https://qr.ae/TWrAfS.}
 \BIBentrySTDinterwordspacing
 
 \bibitem{testimonials_fs}
 \BIBentryALTinterwordspacing
-J.~Mott \emph{et~al.} Testimonials and quotes. [En línea]. Disponible en:
-  \url{https://fsharp.org/testimonials/.} [Accedido: 14-8-2019].
+J.~Mott \emph{et~al.} Testimonials and quotes. [Accedido: 14-8-2019]. [Online].
+  Available: \url{https://fsharp.org/testimonials/.}
 \BIBentrySTDinterwordspacing
 
 \bibitem{introductioin_lp}
 \BIBentryALTinterwordspacing
-Y.~Jia-Huai. Introduction to logic introduction to logic programming. [En
-  línea]. Disponible en:
+Y.~Jia-Huai. Introduction to logic introduction to logic programming.
+  [Accedido: 14-8-2019]. [Online]. Available:
   \url{http://www.eng.ucy.ac.cy/theocharides/Courses/ECE317/Logic%20Programming%201.pdf.}
-  [Accedido: 14-8-2019].
 \BIBentrySTDinterwordspacing
 
 \bibitem{DBLP:journals/corr/cs-PL-0107013}
 \BIBentryALTinterwordspacing
 K.~R. Apt, ``The logic programming paradigm and prolog,'' \emph{CoRR}, vol.
-  cs.PL/0107013, 2001. [En línea]. Disponible en:
+  cs.PL/0107013, 2001. [Online]. Available:
   \url{http://arxiv.org/abs/cs.PL/0107013}
 \BIBentrySTDinterwordspacing
 
 \bibitem{computer_hope}
 \BIBentryALTinterwordspacing
-C.~H. (2019, Junio) Logic programming. [En línea]. Disponible en:
-  \url{https://www.computerhope.com/jargon/l/logic-programming.htm.} [Accedido:
-  14-8-2019].
+C.~H. (2019, Junio) Logic programming. [Accedido: 14-8-2019]. [Online].
+  Available: \url{https://www.computerhope.com/jargon/l/logic-programming.htm.}
 \BIBentrySTDinterwordspacing
 
 \bibitem{quora_lp}
 \BIBentryALTinterwordspacing
-Y.~Wang. (2015, November) What are the applications of logic programming? [En
-  línea]. Disponible en: \url{https://qr.ae/TWrCJb.} [Accedido: 14-8-2019].
+Y.~Wang. (2015, November) What are the applications of logic programming?
+  [Accedido: 14-8-2019]. [Online]. Available: \url{https://qr.ae/TWrCJb.}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
